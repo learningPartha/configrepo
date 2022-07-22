@@ -1,5 +1,5 @@
 db:
-  connection: '{connectionString:''http://_456'',username:''config'',password:''confpwd''}'
+  connection: '{connectionString:''http://_789'',username:''cuis'',password:''cpwd''}'
   host: 127.0.0.1
   port: 120
 eureka:
@@ -15,7 +15,7 @@ management:
         include: '*'
 movieRating:
   value: 5
-  list: 10,8,5,1
+  list: 13,14,15,16
 server:
   port: 8083
 spring:
